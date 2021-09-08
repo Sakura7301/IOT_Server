@@ -19,17 +19,17 @@
 
 #### 断开连接测试:
 
-![bufferevent释放测试](C:\Users\Sakura\Desktop\日志\IOT服务器项目\IOTserver\image\bufferevent释放测试.png)
+![image](https://github.com/Sakura7301/IOT_Server/blob/master/image/bufferevent释放测试.png)
 
 #### 多用户测试:
 
-![test_01](C:\Users\Sakura\Desktop\日志\IOT服务器项目\IOTserver\image\test_01.png)
+![image](https://github.com/Sakura7301/IOT_Server/blob/master/image/test_01.png)
 
-![test_02](C:\Users\Sakura\Desktop\日志\IOT服务器项目\IOTserver\image\test_02.png)
+![image](https://github.com/Sakura7301/IOT_Server/blob/master/test_02.png)
 
 ### windows连接测试:
 
-![windows平台测试](C:\Users\Sakura\Desktop\日志\IOT服务器项目\IOTserver\image\windows平台测试.png)
+![image](https://github.com/Sakura7301/IOT_Server/blob/master/image/windows平台测试.png)
 
 
 
