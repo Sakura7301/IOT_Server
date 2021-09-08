@@ -12,8 +12,7 @@
 
 #### NC命令连接:
 
-![1](C:\Users\Sakura\Desktop\日志\IOT服务器项目\IOTserver\image\1.png)
-
+ ![image](https://github.com/Sakura7301/IOT_Server/blob/master/image/1.png)
 #### 服务器反馈:
 
 ![2](C:\Users\Sakura\Desktop\日志\IOT服务器项目\IOTserver\image\2.png)
