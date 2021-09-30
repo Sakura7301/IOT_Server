@@ -25,7 +25,7 @@
 
 ![image](https://github.com/Sakura7301/IOT_Server/blob/master/image/test_01.png)
 
-![image](https://github.com/Sakura7301/IOT_Server/blob/master/test_02.png)
+![image](https://github.com/Sakura7301/IOT_Server/blob/master/image/test_02.png)
 
 ### windows连接测试:
 
