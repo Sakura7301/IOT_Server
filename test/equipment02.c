@@ -5,6 +5,10 @@
   > Email: sakuraduck@foxmail.com 
   > Github: https://github.com/Sakura7301 
  ************************************************************************/
+#if 0
+
+
+
 
 #include<stdio.h>
 #include<stdlib.h>
@@ -55,3 +59,4 @@ int main()
 
 
 }
+#endif // 0
