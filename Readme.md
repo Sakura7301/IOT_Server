@@ -1,3 +1,4 @@
+![example](https://img.shields.io/badge/tiny_iot_server-v1.0-blue.svg)
 # 使用说明
 
 作为一个纯C语言开发的服务器程序
