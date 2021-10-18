@@ -8,6 +8,7 @@
 因此在编译它之前,请先安装这两个开源库.
 
 您可以选择使用makefile直接编译source的源文件之后使用,也可以选择编译之后使用restart.sh脚本来执行本程序,写它是为了防止崩溃重启,虽然目前并没有崩溃过.....
+***
 
 ## **实现流程**
 
@@ -20,11 +21,13 @@
     4.设备上传信息
  
     5.服务器查询订阅该设备的客户端->推送订阅信息
+***
 
 ## **目录**
 - 源文件: [source](https://github.com/Sakura7301/IOT_Server/tree/master/source)
 
 - 测试demo:[test](https://github.com/Sakura7301/IOT_Server/tree/master/test)
+***
 
 ## 以下为测试结果:
 
@@ -49,6 +52,6 @@
 
 ![image](https://github.com/Sakura7301/IOT_Server/blob/master/image/windows平台测试.png)
 
-
+***
 #### **关键字:** libevent、cJSON、Subscribe
 
