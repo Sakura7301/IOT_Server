@@ -22,9 +22,9 @@
     5.服务器查询订阅该设备的客户端->推送订阅信息
 
 ## **目录**
-源文件: [source](https://github.com/Sakura7301/IOT_Server/tree/master/source)
+- 源文件: [source](https://github.com/Sakura7301/IOT_Server/tree/master/source)
 
-测试demo:[test](https://github.com/Sakura7301/IOT_Server/tree/master/test)
+- 测试demo:[test](https://github.com/Sakura7301/IOT_Server/tree/master/test)
 
 ## 以下为测试结果:
 
