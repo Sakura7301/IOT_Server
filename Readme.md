@@ -1,4 +1,4 @@
-![example](https://img.shields.io/badge/tiny_iot_server-v1.0-blue.svg)   ![example](https://img.shields.io/badge/user:-sakura-blue.svg)
+![example](https://img.shields.io/badge/tiny_iot_server-v1.0-green.svg)   ![example](https://img.shields.io/badge/user:-sakura-blue.svg)
 # 使用说明
 
 作为一个纯C语言开发的服务器程序
